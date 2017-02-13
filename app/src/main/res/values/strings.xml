@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sms Gateway</string>
+    <string name="hint_search">Найти</string>
+    <string name="uploadTo1S">Выгрузить в 1С</string>
+    <string name="receive">Получить</string>
+    <string name="removeAll">Очистить все</string>
+    <string name="removeAllSent">Очистить отправленные</string>
+    <string name="exit">Выйти</string>
+
+</resources>
