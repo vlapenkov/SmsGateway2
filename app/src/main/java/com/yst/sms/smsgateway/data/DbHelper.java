@@ -21,6 +21,7 @@ import java.util.TimeZone;
  */
 public class DbHelper extends SQLiteOpenHelper {
 
+
     // If you change the database schema, you must increment the database version.
     private static final int DATABASE_VERSION = 1;
 

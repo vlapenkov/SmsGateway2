@@ -39,6 +39,7 @@ import java.util.TimerTask;
 
 public class MainActivity extends AppCompatActivity implements LoaderManager.LoaderCallbacks<Cursor>, SearchView.OnQueryTextListener{
 
+
    private static int timeoutInMs = 60000;
     private Timer mTimer;
     private DispatcherTimerTask mMyTimerTask;

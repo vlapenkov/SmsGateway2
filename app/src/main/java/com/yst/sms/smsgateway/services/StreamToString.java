@@ -12,6 +12,7 @@ import java.io.UnsupportedEncodingException;
  public  class StreamToString {
 
 
+
      public static String Convert (InputStream stream)
     {
 

@@ -5,6 +5,7 @@ package com.yst.sms.smsgateway.data;
  */
 public class SmsMessagePackage {
 
+
     public int Id;
     public String PhoneNumber;
     public String Message;
