@@ -12,10 +12,8 @@ import java.io.UnsupportedEncodingException;
  public  class StreamToString {
 
 
-
      public static String Convert (InputStream stream)
     {
-
 
         final int bufferSize = 1024;
         final char[] buffer = new char[bufferSize];
